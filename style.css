@@ -1,0 +1,18 @@
+p{
+    margin:0 auto;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    width: 25%;
+    border-bottom: 2px solid rgba(95, 83, 83, 0.5);
+    padding-bottom: 15px;
+    text-align: center;
+
+}
+img {
+    width: 30%;
+    float:left;
+    margin:1.66%;
+
+
+    
