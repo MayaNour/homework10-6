@@ -9,10 +9,33 @@ p{
     text-align: center;
 
 }
-img {
+
+div{
     width: 30%;
     float:left;
-    margin:1.66%;
+    margin:1.4%;
+    border: 2.5px gray solid;
+    text-align: center;
+}
 
+div:hover{
+    border-color: rgb(176, 184, 63);;
+    cursor: pointer;
+    color: rgb(176, 184, 63);
+}
 
-    
+div p{
+    width: 100%;
+    margin: 0 auto;
+    border-bottom: none;
+    font-size: 15px;
+}
+
+/* div p:hover{
+    color:rgb(99, 214, 99);
+} */
+
+img {
+    width: 100%;
+}
+
